@@ -3,6 +3,12 @@
 <p align="center">
   <img src="https://files.catbox.moe/3q57x5.jpg" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
 </p>
+---
+
+<p align="center">
+  <img src="https://files.catbox.moe/1fn0ou.png" height="300" alt="lumina-xmd Logo" />
+</p>
+---
 
 
 ## 🚀 Ｄｅｐｌｏｙｍｅｎｔ Ｏｐｔｉｏｎｓ

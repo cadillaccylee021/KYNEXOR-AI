@@ -13,7 +13,7 @@ Get started with `QUEEN_KYLIE-V1` quickly! Choose your preferred deployment meth
 ### 🔑 ２．ＧＥＴ ＳＥＳＳＩＯＮ ＩＤ
 - **Pair Code**: 
   <a href="https://above-allpair.onrender.com/pair">
-    <img src="https://img.shields.io/badge/Pair_Code-1E90FF?style=for-the-badge" alt="Click Here to Get Pair-Code" width="120">
+    <img src="https://img.shields.io/badge/Pair_Code-000000?style=for-the-badge" alt="Click Here to Get Pair-Code" width="120">
   </a>
 - **QR Code**: 
   <a href="https://above-allpair.onrender.com/wasiqr">

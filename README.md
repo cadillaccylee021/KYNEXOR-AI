@@ -6,7 +6,7 @@ Get started with `QUEEN_KYLIE-V1` quickly! Choose your preferred deployment meth
 ### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
   <a href="https://github.com/cadillaccylee021/Queen_Kylie-V1/fork" target="_blank">
-    <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FF0000?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FF000000?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p>
 

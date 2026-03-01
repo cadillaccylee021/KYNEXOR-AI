@@ -35,8 +35,6 @@ Pick your favorite platform to deploy `QUEEN_KYLIE-V1`:
       <img src="https://img.shields.io/badge/-🚀_Deploy_on_Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>
     </a>
     <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Heroku_logo.svg" width="50" />
-    <br>
     <a href="https://signup.heroku.com/" style="font-size: 14px;">Create Account</a>
   </div>
 

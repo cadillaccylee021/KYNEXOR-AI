@@ -30,15 +30,6 @@ Pick your favorite platform to deploy `QUEEN_KYLIE-V1`:
   </div>
 
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Clever Cloud</h3>
-    <a href="https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup">
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Clever_Cloud_logo.png" width="50" />
-    <br>
-    <a href="https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup" style="font-size: 14px;">Create Account</a>
-  </div>
-
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
     <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Heroku</h3>
     <a href="https://dashboard.heroku.com/new?template=https://github.com/Jupiterbold05/Aboveall">
       <img src="https://img.shields.io/badge/-🚀_Deploy_on_Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>

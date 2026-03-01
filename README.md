@@ -15,10 +15,6 @@ Get started with `QUEEN_KYLIE-V1` quickly! Choose your preferred deployment meth
   <a href="https://above-allpair.onrender.com/pair">
     <img src="https://img.shields.io/badge/Pair_Code-000000?style=for-the-badge" alt="Click Here to Get Pair-Code" width="120">
   </a>
-- **QR Code**: 
-  <a href="https://above-allpair.onrender.com/wasiqr">
-    <img src="https://img.shields.io/badge/QR_Code-32CD32?style=for-the-badge" alt="Click Here to Get QR-Code" width="100">
-  </a>
 
 ### 🌈 ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
 Pick your favorite platform to deploy Pʟᴀᴛɪɴᴜᴍ-V1:

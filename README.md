@@ -17,7 +17,7 @@ Get started with `QUEEN_KYLIE-V1` quickly! Choose your preferred deployment meth
   </a>
 
 ### 🌈 ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
-Pick your favorite platform to deploy Pʟᴀᴛɪɴᴜᴍ-V1:
+Pick your favorite platform to deploy `QUEEN_KYLIE-V1`:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
@@ -25,8 +25,6 @@ Pick your favorite platform to deploy Pʟᴀᴛɪɴᴜᴍ-V1:
     <a href="https://dashboard.render.com/select-repo?type=web">
       <img src="https://img.shields.io/badge/-🚀_Deploy_on_Render-black?style=for-the-badge&logo=render&logoColor=white"/>
     </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Render_logo.png" width="50" />
     <br>
     <a href="https://dashboard.render.com/signup" style="font-size: 14px;">Create Account</a>
   </div>

@@ -1,11 +1,11 @@
 # Queen_Kylie-V1
 
 ## 🚀 Ｄｅｐｌｏｙｍｅｎｔ Ｏｐｔｉｏｎｓ
-Get started with Pʟᴀᴛɪɴᴜᴍ-V1 quickly! Choose your preferred deployment method:
+Get started with `QUEEN_KYLIE-V1` quickly! Choose your preferred deployment method:
 
 ### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
-  <a href="https://github.com/Jupiterbold05/Platinum-V1/fork" target="_blank">
+  <a href="https://github.com/cadillaccylee021/Queen_Kylie-V1/fork" target="_blank">
     <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p>

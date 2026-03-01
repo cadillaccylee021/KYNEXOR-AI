@@ -1,4 +1,4 @@
-# Queen_Kylie-V1
+# QUEEN_KYLIE-V1
 
 <p align="center">
   <img src="https://files.catbox.moe/3q57x5.jpg" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>

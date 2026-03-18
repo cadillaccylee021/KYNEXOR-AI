@@ -1,7 +1,7 @@
-# QUEEN_KYLIE-V1
+# KYNEXOR-AI
 
 <p align="center">
-  <img src="https://files.catbox.moe/3q57x5.jpg" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/3q57x5.jpg" alt="KYNEXOR-AI Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
 <p align="center">
@@ -29,19 +29,19 @@ Get started with `QUEEN_KYLIE-V1` quickly! Choose your preferred deployment meth
 
 ### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
-  <a href="https://github.com/cadillaccylee021/Queen_Kylie-V1/fork" target="_blank">
+  <a href="https://github.com/cadillaccylee021/KYNEXOR-AI/fork" target="_blank">
     <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FFC0CB?style=for-the-badge&logo=git&logoColor=black"/>
   </a>
 </p>
 
 ### 🔑 ２．ＧＥＴ ＳＥＳＳＩＯＮ ＩＤ
 - **Pair Code**: 
-  <a href="https://above-allpair.onrender.com/pair">
+  <a href="https://kynexorpaircode-production.up.railway.app/pair">
     <img src="https://img.shields.io/badge/Pair_Code-000000?style=for-the-badge" alt="Click Here to Get Pair-Code" width="120">
   </a>
 
 ### 🌈 ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
-Pick your favorite platform to deploy `QUEEN_KYLIE-V1`:
+Pick your favorite platform to deploy `KYNEXOR-AI`:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
